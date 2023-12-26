@@ -164,13 +164,13 @@ export default function Home() {
             <div>
               <ul>
                 <li>
-                  <a href="#"><img src="./icons/github.svg"/></a>
+                  <a href="https://github.com/jabo-bernardo"><img src="./icons/github.svg"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="./icons/linkedin.svg"/></a>
+                  <a href="https://www.linkedin.com/in/jabo-bernardo/"><img src="./icons/linkedin.svg"/></a>
                 </li>
                 <li>
-                  <a href="#"><img src="./icons/twitterx.svg"/></a>
+                  <a href="https://twitter.com/hellojabo"><img src="./icons/twitterx.svg"/></a>
                 </li>
               </ul>
             </div>
