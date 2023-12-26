@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     shortcut: 'https://hellojabo.com/images/favicon.ico',
     other: {
       rel: 'icon',
-      type: 'image/ico',
+      type: 'image/x-icon',
       url:  'https://hellojabo.com/images/favicon.ico',
     }
   },
