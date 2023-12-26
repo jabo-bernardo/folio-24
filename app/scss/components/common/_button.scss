@@ -1,0 +1,40 @@
+.button__container {
+	background-color: var(--primary-color);
+	color: white;
+	padding: 0.8rem 2rem;
+	font-size: 1rem;
+	border-radius: 1rem;
+	border: 2px solid var(--primary-color);
+	font-weight: bold;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+
+	& > * + * {
+		margin-left: 0.8rem;
+	}
+
+	&:focus, &:hover {
+		border-color: var(--black);
+	}
+
+	.icon__container {
+		img {
+			width: 1rem;
+		}
+	}
+
+	&.button__container--text {
+		background-color: var(--white);
+		border-color: var(--white);
+		color: var(--primary-color);
+
+		&:focus, &:hover {
+			border-color: var(--primary-color);
+		}
+	}
+
+	* {
+		color: inherit;
+	}
+}

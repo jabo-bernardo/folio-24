@@ -1,0 +1,15 @@
+:root {
+	--primary-color: #F49A11;
+	--primary-color-light: #EACEA4;
+	--white: #F5F1EA;
+	--black: #2C2D35;
+	--subtitle: #A2A5C0;
+}
+
+:root[theme="dark"] {
+	--primary-color: #F49A11;
+	--primary-color-light: #EACEA4;
+	--white: #F5F1EA;
+	--black: #2C2D35;
+	--subtitle: #A2A5C0;
+}
