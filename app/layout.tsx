@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: "Jabo Bernardo's Portfolio | @hellojabo",
     images: [
       {
-        url: "https://hellojabo.com/Banner.png",
+        url: "https://hellojabo.com/images/Banner.png",
         width: 1920,
         height: 1080,
         alt: "Jabo Bernardo's Portfolio | @hellojabo",
