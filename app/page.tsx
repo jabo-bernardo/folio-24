@@ -38,7 +38,7 @@ const projects = [
   {
     "name": "UP-TO-DATE Web Design",
     "tags": ["Web Development"],
-    "avatarUrl": "https://media.licdn.com/dms/image/C560BAQFIBG4z8-Kj9w/company-logo_100_100/0/1631347590710?e=1710979200&v=beta&t=ix4hmQfAnOg9Uoelds8hLWwlxTOx7mz7B8QPn5IGg98",
+    "avatarUrl": "https://hellojabo.com/images/utd-logo.jpg",
     "position": "(Remote) Full-stack Web Developer",
     "duration": "May - Jul 2023",
     "location": "Belgium",
@@ -48,7 +48,7 @@ const projects = [
   {
     "name": "Array Agency",
     "tags": ["Web Development"],
-    "avatarUrl": "https://arrayagency.com/images/arraylogo.png",
+    "avatarUrl": "https://hellojabo.com/images/array-logo.jpg",
     "position": "(Remote) Full-stack Web Developer",
     "duration": "Sep - Oct 2023",
     "location": "Los Angeles",
@@ -58,7 +58,7 @@ const projects = [
   {
     "name": "Easy EPC",
     "tags": ["Web Development"],
-    "avatarUrl": "https://media.licdn.com/dms/image/C4D0BAQEEDsShtsW8bw/company-logo_200_200/0/1630456200316/easy_epc_logo?e=1710979200&v=beta&t=EjGX0pRn01-XSqm5-tL04Ld4EHSNxtwD1E25xIct1QQ",
+    "avatarUrl": "https://hellojabo.com/images/easy-epc-logo.jpg",
     "position": "(Remote) Front-end Web Developer",
     "duration": "Feb - Apr 2021",
     "location": "United Kingdom",
@@ -68,7 +68,7 @@ const projects = [
   {
     "name": "Ano.js",
     "tags": ["Web Development"],
-    "avatarUrl": "https://media.licdn.com/dms/image/C4E0BAQGA20mtlrtKRw/company-logo_100_100/0/1630579793168?e=1710979200&v=beta&t=SZQAzG9iQp6-Txli3eUNPW0Gr4vAZjbpXEyByGi6FQk",
+    "avatarUrl": "https://hellojabo.com/images/ano-js-log.jpg",
     "position": "(Remote) Open Source Developer",
     "duration": "Mar 2020 - Jun 2022",
     "location": "Internet",
