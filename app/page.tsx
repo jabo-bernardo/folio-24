@@ -56,6 +56,17 @@ const projects = [
     "description": "- Collaborated with clients to develop a cutting-edge audit tool aimed at reconciling cash drawer amounts with Square API data.\n- Created a secure, user-friendly platform with role-based access control for employees (Owner, Manager, Team Lead) to ensure the right personnel handle sensitive financial data.\n- Designed and implemented a seamless login process, enabling Team Leads to initiate the audit by entering cash counts of various denominations.\n- Developed algorithms to calculate and compare the total cash amount with Square data, automating the verification process for accuracy.\n- Engineered a notification system to alert users in case of discrepancies, prompting them to recheck and confirm mismatches.\n- Translated clients' Google Sheets templates into a functional software application, aligning it with their specific needs and requirements.\n- Maintained open communication with the client throughout the project, ensuring a collaborative and successful development process."
   },
   {
+    "name": "Blimey",
+    "tags": ["Web Development"],
+    "avatarUrl": "https://hellojabo.com/images/blimey-logo.jpg",
+    "position": "(Remote) Full-stack Web Developer",
+    "duration": "Feb - Apr 2021",
+    "location": " Jaipur, India",
+    "shortDescription": "A scheduling and meeting web application",
+    "description": `- Completed a comprehensive project as a Full Stack Developer for a scheduling and meeting web application.\n- Executed the finalization of UI development based on provided Figma mockups, ensuring a visually appealing and highly functional user interface.\n- Utilized React for the frontend, with Firebase Cloud Firestore for the database, Firebase Auth for user authentication, and Netlify for hosting.\n- Achieved successful deployment of the frontend, meeting production standards and optimizing performance.\n- Implemented backend solutions using AWS for hosting, Express for server code, and integrated Twilio API for email and SMS, Zoom API for meeting links, and Razorpay API for payments.\n- Demonstrated proficiency in managing a diverse technology stack, contributing to the project's success and aligning with the client's expectations.
+    `
+  },
+  {
     "name": "Easy EPC",
     "tags": ["Web Development"],
     "avatarUrl": "https://hellojabo.com/images/easy-epc-logo.jpg",
@@ -68,7 +79,7 @@ const projects = [
   {
     "name": "Ano.js",
     "tags": ["Web Development"],
-    "avatarUrl": "https://hellojabo.com/images/ano-js-log.jpg",
+    "avatarUrl": "https://hellojabo.com/images/ano-js-logo.jpg",
     "position": "(Remote) Open Source Developer",
     "duration": "Mar 2020 - Jun 2022",
     "location": "Internet",
